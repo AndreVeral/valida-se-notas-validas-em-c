@@ -1,0 +1,1 @@
+Dadas duas notas, se ambas entre 0 e 10, então calcule a média. Se inválidas, exibir mensagem de erro e encerrar aplicação.
